@@ -17,6 +17,7 @@ Telescope.utils.getIcon = function (iconName, iconClass) {
  */
 Telescope.utils.icons = {
   expand: "angle-right",
+  bookmark: "bookmark",
   collapse: "angle-down",
   next: "angle-right",
   close: "times",
@@ -42,6 +43,6 @@ Telescope.utils.icons = {
   approve: "check-circle-o",
   reject: "times-circle-o",
   views: "eye",
-  clicks: "mouse-pointer", 
+  clicks: "mouse-pointer",
   score: "line-chart"
 };

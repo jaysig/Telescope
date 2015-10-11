@@ -29,6 +29,7 @@ Package.onUse(function (api) {
   // client
 
   api.addFiles([
+    'custom-telescope-posts/lib/client/templates/modules/custom_post_vote.html',
     'lib/client/templates/hello.html',
     'lib/client/templates/hello.js',
     'lib/client/templates/custom_post_title.html',

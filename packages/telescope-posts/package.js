@@ -74,7 +74,10 @@ Package.onUse(function (api) {
     'lib/client/templates/posts_list/posts_list_compact.html',
     'lib/client/templates/posts_list/posts_list_compact.js',
     'lib/client/templates/posts_list/posts_list_controller.html',
-    'lib/client/templates/posts_list/posts_list_controller.js'
+    'lib/client/templates/posts_list/posts_list_controller.js',
+    'lib/client/templates/modules/custom_post_vote.html',
+    'lib/client/templates/modules/custom_post_info.html'
+
   ], ['client']);
 
   api.addFiles([
