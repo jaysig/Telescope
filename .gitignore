@@ -30,6 +30,7 @@ scratch
 .meteor/local
 .meteor/meteorite
 mup.json
+packages/telescope-core/lib/client/main.html
 
 packages_update.py
 
